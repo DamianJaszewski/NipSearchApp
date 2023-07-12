@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 const EntityPerson = ({ data, title }) => {
     return (
         <>
-            <h4 id="rntityPerson">{title}</h4>
+            <h4 id="entityPerson">{title}</h4>
             <table className='table table-striped' aria-labelledby="tabelLabel">
                 <thead>
                     <tr>
