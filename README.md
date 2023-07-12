@@ -35,7 +35,7 @@ Zainstalowane paczki:
 <a name="4"/>
 
 ## Dokumentacja
-![Pobranie danych](./img/FetchDanych.png)
+![Pobranie danych](./FetchDanych.png)
 
 <a name="5"/>
 
